@@ -75,7 +75,7 @@ _(Agrega links a los repositorios o a GitHub Pages aquí)_
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Juan Jose Gil/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-jose-gil-a97b73aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/juanjof1" target="_blank">
