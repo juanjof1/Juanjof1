@@ -33,10 +33,13 @@ Me interesa desarrollar soluciones limpias, mantenibles y orientadas a una buena
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </p>
 
-### Bases de Datos
+### Bases de Datos & Backend Services
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="...sqlserver..." width="40"/>
+  <img src="...mongodb..." width="40"/>
+  <img src="...firebase..." width="40"/>
 </p>
+
 
 ---
 
