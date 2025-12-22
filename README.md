@@ -83,5 +83,11 @@ _(Agrega links a los repositorios o a GitHub Pages aquí)_
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-Advanced-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+
 
 ⭐ *Siempre abierto a aprender nuevas tecnologías y colaborar en proyectos interesantes.*
