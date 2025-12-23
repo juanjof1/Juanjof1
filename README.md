@@ -60,9 +60,9 @@ Me interesa desarrollar soluciones limpias, mantenibles y orientadas a una buena
 - 🛒 **Mini Amazon** – Tienda online simple usando Angular
 - 📄 **Portfolio Web** – Portafolio personal con diseño responsivo
 
-_(Agrega links a los repositorios o a GitHub Pages aquí)_
 
----
+
+
 
 ## 🧰 Tools & IDEs
 
